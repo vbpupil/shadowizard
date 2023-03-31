@@ -1,0 +1,19 @@
+{
+  "name": "shadowizard",
+  "version": "1.0.0",
+  "description": "test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vbpupil/shadowizard.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vbpupil/shadowizard/issues"
+  },
+  "homepage": "https://github.com/vbpupil/shadowizard#readme"
+}
